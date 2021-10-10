@@ -33,8 +33,8 @@
 
 .content {
   position: relative;
-  top: -65%;
-  height: 60%;
+  top: -85%;
+  height: 80%;
 }
 
 .home img {
@@ -50,7 +50,7 @@
 }
 
 .home .typing-carousel {
-  font-size: 14pt;
+  font-size: 10pt;
   color: #613e2f;
 }
 
@@ -146,7 +146,7 @@
   }
 
   .home .greeting {
-    font-size: 32pt;
+    font-size: 20pt;
   }
 }
 
